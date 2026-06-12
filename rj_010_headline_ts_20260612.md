@@ -101,3 +101,12 @@
 2026年06月11日 11时24分38秒 海绵音乐歌曲创作软件：http://search.cooco.net.cn/rj/53555.html
 2026年06月11日 10时54分38秒 爱尚免费小说：http://search.cooco.net.cn/rj/53556.html
 2026年06月11日 04时06分38秒 剧开心：http://search.cooco.net.cn/rj/53558.html
+
+
+---\n
+**来源参考：**
+- https://github.com/ww8642199-svg/daily-news-zt12/blob/master/zt_005_headline_bar_20260612.md
+- https://github.com/ww8642199-svg/daily-news-zt12/blob/master/zt_007_headline_bar_20260612.md
+- https://github.com/ww8642199-svg/daily-news-zt12/blob/master/rj_008_headline_ts_batch2_20260612.md
+- https://github.com/ww8642199-svg/daily-news-zt12/blob/master/zt_003_headline_bar_20260612.md
+- https://github.com/ww8642199-svg/daily-news-zt12/blob/master/zt_009_headline_bar_20260612.md

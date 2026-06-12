@@ -101,3 +101,12 @@
 2026年06月11日 22时01分38秒 美趣AI：http://search.cooco.net.cn/rj/51377.html
 2026年06月12日 04时15分38秒 每食优享：http://search.cooco.net.cn/rj/51378.html
 2026年06月11日 14时55分38秒 多多驾到：http://search.cooco.net.cn/rj/51380.html
+
+
+---\n
+**来源参考：**
+- https://github.com/ww8642199-svg/daily-news-zt12/blob/master/zt_002_headline_bar_batch2_20260612.md
+- https://github.com/ww8642199-svg/daily-news-zt12/blob/master/zt_004_headline_bar_20260612.md
+- https://github.com/ww8642199-svg/daily-news-zt12/blob/master/zt_003_headline_bar_20260612.md
+- https://github.com/ww8642199-svg/daily-news-zt12/blob/master/rj_004_headline_bar_20260612.md
+- https://github.com/ww8642199-svg/daily-news-zt12/blob/master/zt_010_headline_ts_20260612.md
